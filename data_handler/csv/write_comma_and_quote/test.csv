@@ -1,0 +1,8 @@
+name,info
+normal text,Student
+a comma,"Prof. at USA, and UK"
+one double quote,"Traveller from ""A to B"
+double-quoted text,"Traveller from ""A to B"""
+one single quote,Traveller from 'A to B
+single-quoted text,Traveller from 'A to B'
+double-quoted text and comma,"I am actually, testing ""pandas, ability"""
